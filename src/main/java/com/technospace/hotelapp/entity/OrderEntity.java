@@ -31,6 +31,4 @@ public class OrderEntity {
 		this.oamount = oamount;
 	}
 	
-	
-	
 }

@@ -1,6 +1,6 @@
-package com.technospace.hotelapp.entity;
+package com.technospace.hotelapp.model;
 
-public class CustomerEntity {
+public class CustomerModelClass {
 
 	private int cid;
 	private String cname;
@@ -32,7 +32,4 @@ public class CustomerEntity {
 	public void setEmailid(String emailid) {
 		this.emailid = emailid;
 	}
-	
-	
-	
 }
